@@ -1,0 +1,7 @@
+# 忽略.idea目录
+.idea/
+
+# 忽略saved_model目录下的所有文件
+saved_model/
+bert-base-chinese/
+ernie-health-zh/
